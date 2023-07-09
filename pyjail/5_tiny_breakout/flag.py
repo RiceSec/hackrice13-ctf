@@ -1,0 +1,1 @@
+flag = 'hackrice{wa5_th@t_h31pful?}'

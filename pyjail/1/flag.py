@@ -1,0 +1,1 @@
+flag = 'hackrice{1m_g0nn@_m@k3_A_jaA@aAi1br3aK}'

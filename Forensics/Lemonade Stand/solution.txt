@@ -1,0 +1,3 @@
+1) Use Audacity's spectrogram view to see hidden image
+2) Copy flag into vignere cipher decoder (key is duck)
+3) Copy decoded flag into answer box

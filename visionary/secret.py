@@ -1,0 +1,2 @@
+secret = """Information is power. But like all power, there are those who want to keep it for themselves. The world's entire scientific and cultural heritage, published over centuries in books and journals, is increasingly being digitized and locked up by a handful of private corporations. Want to read the papers featuring the most famous results of the sciences? You'll need to send enormous amounts to publishers like Reed Elsevier. Anyway, the flag is the word "INGENIUS". Don't forget the flag format."""
+key = "swartz"

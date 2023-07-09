@@ -1,0 +1,1 @@
+flag = 'hackrice{spl1c3_&_d1c3}'

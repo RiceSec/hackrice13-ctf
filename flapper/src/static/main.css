@@ -1,0 +1,111 @@
+body {
+  background-color: #f2d9d8;
+}
+input,
+textarea,
+select {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  color: #221f1f;
+}
+/*
+h1 {
+  font-size: 60px; 
+  font-weight: 300;
+  color: #4c4c4c;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+*/
+input[type=text] {
+  width: 50%;
+  height: 5%;
+  padding: 12px 20px;
+  margin: 8px 0;
+}
+
+input[type=password] {
+  width: 50%;
+  height: 5%;
+  padding: 12px 20px;
+  margin: 8px 0;
+}
+
+input[type=submit] {
+  width: 20%;
+  height: 1%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  font-size: 120%;
+  padding-bottom: 4%;
+}
+
+.login {
+  font-size: 50px; 
+  font-weight: 300;
+  color: #4c4c4c;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  font-size: 20px;
+}
+
+.message {
+  font-size: 25px; 
+  font-weight: 300;
+  color: #473e3e;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.logo {
+  max-width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box h2{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.box {
+  margin: 20px auto;
+  width: 600px; 
+  height: 300px; 
+  -webkit-border-radius: 8px/7px; 
+  -moz-border-radius: 8px/7px; 
+  border-radius: 8px/7px; 
+  background-color: white; 
+  -webkit-box-shadow: 1px 2px 5px grey; 
+  -moz-box-shadow: 1px 2px 5px grey; 
+  box-shadow: 1px 2px 5px grey; 
+  border: solid 1px grey;
+}
+
+.footer h4{
+  position: fixed;
+	text-align: center;
+	bottom: 0;
+	width: 30%;
+  color: #473e3e;
+  font-size: 15px; 
+}
+
+
+input{
+  margin-top: 15px;
+  margin-left: 25%;
+  margin-right:25%;
+}
